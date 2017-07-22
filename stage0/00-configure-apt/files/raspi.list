@@ -1,0 +1,3 @@
+deb http://mirrors.ustc.edu.cn/archive.raspberrypi.org/ jessie main ui staging
+# Uncomment line below then 'apt-get update' to enable 'apt-get source'
+#deb-src http://mirrors.ustc.edu.cn/archive.raspberrypi.org/ jessie main ui
