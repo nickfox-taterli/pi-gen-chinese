@@ -1,2 +1,2 @@
-deb http://mirrors.ustc.edu.cn/raspbian/raspbian/ jessie main non-free contrib
-deb-src http://mirrors.ustc.edu.cn/raspbian/raspbian/ jessie main non-free contrib
+deb http://mirrors.ustc.edu.cn/raspbian/raspbian/ stretch main non-free contrib
+deb-src http://mirrors.ustc.edu.cn/raspbian/raspbian/ stretch main non-free contrib

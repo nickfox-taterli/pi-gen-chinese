@@ -1,7 +1,7 @@
-Index: jessie-stage1/rootfs/lib/udev/rules.d/75-persistent-net-generator.rules
+Index: stretch-stage1/rootfs/lib/udev/rules.d/75-persistent-net-generator.rules
 ===================================================================
---- jessie-stage1.orig/rootfs/lib/udev/rules.d/75-persistent-net-generator.rules
-+++ jessie-stage1/rootfs/lib/udev/rules.d/75-persistent-net-generator.rules
+--- stretch-stage1.orig/rootfs/lib/udev/rules.d/75-persistent-net-generator.rules
++++ stretch-stage1/rootfs/lib/udev/rules.d/75-persistent-net-generator.rules
 @@ -22,7 +22,7 @@ IMPORT{cmdline}="net.ifnames"
  ENV{net.ifnames}=="1",			GOTO="persistent_net_generator_end"
  
